@@ -1,0 +1,5 @@
+# contributor : Sunil Williams <sunil@sunil.co.nz>
+# name : background-color
+# key: bgc
+# --
+background-color: #${1:DDD}

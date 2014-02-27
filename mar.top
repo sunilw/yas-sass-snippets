@@ -1,0 +1,5 @@
+# contributor : Sunil Williams <sunil@sunil.co.nz>
+#name : margin-top
+# key: mt
+# --
+margin-top: $1

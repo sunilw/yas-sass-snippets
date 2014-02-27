@@ -1,0 +1,5 @@
+# contributor : Sunil Williams <sunil@sunil.co.nz>
+#name : padding-bottom
+# key: pb
+# --
+padding-bottom: $1

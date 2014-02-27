@@ -1,0 +1,5 @@
+# contributor : Sunil Williams <sunil@sunil.co.nz>
+#name : margin
+# key: m
+# --
+margin: ${top} ${right} ${bottom} ${left}

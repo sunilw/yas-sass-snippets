@@ -1,0 +1,4 @@
+# contributor : Sunil Williams <sunil@sunil.co.nz>
+# name : border 
+# key: bor
+border: ${1:1px} ${2:solid} #${3:999}

@@ -1,0 +1,5 @@
+# contributor : Sunil Williams <sunil@sunil.co.nz>
+# key: ff
+#name : font-family
+# --
+font-family: $1
